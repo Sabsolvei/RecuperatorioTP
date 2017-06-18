@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP01_WindowsForm_Calculadora", "Calculadora\TP01_WindowsForm_Calculadora.csproj", "{BE098124-B148-42F6-9768-A04A8FAEEC77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP01_Clases_Calculadora", "CalculadoraClase\TP01_Clases_Calculadora.csproj", "{940F8973-4E1C-4227-94F4-5DDC248988C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE098124-B148-42F6-9768-A04A8FAEEC77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE098124-B148-42F6-9768-A04A8FAEEC77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE098124-B148-42F6-9768-A04A8FAEEC77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE098124-B148-42F6-9768-A04A8FAEEC77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{940F8973-4E1C-4227-94F4-5DDC248988C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{940F8973-4E1C-4227-94F4-5DDC248988C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{940F8973-4E1C-4227-94F4-5DDC248988C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{940F8973-4E1C-4227-94F4-5DDC248988C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

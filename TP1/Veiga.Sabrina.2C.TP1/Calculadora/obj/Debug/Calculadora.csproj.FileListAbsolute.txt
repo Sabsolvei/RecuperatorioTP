@@ -1,0 +1,2 @@
+c:\users\sabrina\documents\visual studio 2012\Projects\Veiga.Sabrina\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Sabrina\Documents\Sabrina\Programacion-II-master\Programacion-II-master\TP_01_CALCULADORA\Veiga.Sabrina\Calculadora\bin\Debug\Calculadora.exe.config

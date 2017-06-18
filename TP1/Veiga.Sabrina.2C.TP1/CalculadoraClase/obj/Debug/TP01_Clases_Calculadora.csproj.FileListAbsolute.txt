@@ -1,0 +1,15 @@
+C:\Users\Sabrina\Documents\Sabrina\Programacion-II-master\Programacion-II-master\TP_01_CALCULADORA\Veiga.Sabrina\CalculadoraClase\bin\Debug\CalculadoraClase.dll
+C:\Users\Sabrina\Documents\Sabrina\Programacion-II-master\Programacion-II-master\TP_01_CALCULADORA\Veiga.Sabrina\CalculadoraClase\bin\Debug\CalculadoraClase.pdb
+C:\Users\Sabrina\Documents\Sabrina\Programacion-II-master\Programacion-II-master\TP_01_CALCULADORA\Veiga.Sabrina\CalculadoraClase\obj\Debug\TP01_Clases_Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Sabrina\Documents\Sabrina\Programacion-II-master\Programacion-II-master\TP_01_CALCULADORA\Veiga.Sabrina\CalculadoraClase\obj\Debug\CalculadoraClase.dll
+C:\Users\Sabrina\Documents\Sabrina\Programacion-II-master\Programacion-II-master\TP_01_CALCULADORA\Veiga.Sabrina\CalculadoraClase\obj\Debug\CalculadoraClase.pdb
+C:\Users\Sabrina\Documents\Sabrina\Programacion-II_Sabrina.Veiga\Programacion-II-master\TP_01_CALCULADORA\Veiga.Sabrina\CalculadoraClase\bin\Debug\CalculadoraClase.dll
+C:\Users\Sabrina\Documents\Sabrina\Programacion-II_Sabrina.Veiga\Programacion-II-master\TP_01_CALCULADORA\Veiga.Sabrina\CalculadoraClase\bin\Debug\CalculadoraClase.pdb
+C:\Users\Sabrina\Documents\Sabrina\Programacion-II_Sabrina.Veiga\Programacion-II-master\TP_01_CALCULADORA\Veiga.Sabrina\CalculadoraClase\obj\Debug\TP01_Clases_Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Sabrina\Documents\Sabrina\Programacion-II_Sabrina.Veiga\Programacion-II-master\TP_01_CALCULADORA\Veiga.Sabrina\CalculadoraClase\obj\Debug\CalculadoraClase.dll
+C:\Users\Sabrina\Documents\Sabrina\Programacion-II_Sabrina.Veiga\Programacion-II-master\TP_01_CALCULADORA\Veiga.Sabrina\CalculadoraClase\obj\Debug\CalculadoraClase.pdb
+C:\Users\Sabrina\Documents\Sabrina\Programacion_II_Sabrina.Veiga\tp_laboratorio_2\TP_01_CALCULADORA\Veiga.Sabrina_TP01\CalculadoraClase\bin\Debug\CalculadoraClase.dll
+C:\Users\Sabrina\Documents\Sabrina\Programacion_II_Sabrina.Veiga\tp_laboratorio_2\TP_01_CALCULADORA\Veiga.Sabrina_TP01\CalculadoraClase\bin\Debug\CalculadoraClase.pdb
+C:\Users\Sabrina\Documents\Sabrina\Programacion_II_Sabrina.Veiga\tp_laboratorio_2\TP_01_CALCULADORA\Veiga.Sabrina_TP01\CalculadoraClase\obj\Debug\TP01_Clases_Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Sabrina\Documents\Sabrina\Programacion_II_Sabrina.Veiga\tp_laboratorio_2\TP_01_CALCULADORA\Veiga.Sabrina_TP01\CalculadoraClase\obj\Debug\CalculadoraClase.dll
+C:\Users\Sabrina\Documents\Sabrina\Programacion_II_Sabrina.Veiga\tp_laboratorio_2\TP_01_CALCULADORA\Veiga.Sabrina_TP01\CalculadoraClase\obj\Debug\CalculadoraClase.pdb
