@@ -110,10 +110,7 @@ namespace ClasesInstanciables
             return !(i == clase);
         }
 
-        public override bool Equals(object obj)
-        {
-            return this == ((Profesor)obj);
-        }
+   
 
         #endregion
     }

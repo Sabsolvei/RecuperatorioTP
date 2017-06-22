@@ -48,7 +48,15 @@ namespace EntidadesAbstractas
 
         public override bool Equals(object obj)
         {
-            return this == ((Universitario)obj);
+            bool igualdad = false;
+            if (obj.GetType() == this.GetType())
+            {
+                if ((Universitario)obj == this)
+                {
+                    igualdad = true;
+                }
+            }
+            return igualdad;
         }
         #endregion
 

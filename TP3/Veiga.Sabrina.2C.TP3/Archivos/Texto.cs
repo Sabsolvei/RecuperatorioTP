@@ -15,7 +15,7 @@ namespace Archivos
         {
             try
             {
-                using (StreamWriter sw = new StreamWriter(AppDomain.CurrentDomain.BaseDirectory + archivo, true))
+                using (StreamWriter sw = new StreamWriter(AppDomain.CurrentDomain.BaseDirectory + archivo, false))
                 {
                     sw.WriteLine(datos);
                 }

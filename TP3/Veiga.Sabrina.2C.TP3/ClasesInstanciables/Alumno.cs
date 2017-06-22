@@ -105,11 +105,6 @@ namespace ClasesInstanciables
             return igualdad;
         }
 
-        public override bool Equals(object obj)
-        {
-            return this == ((Alumno)obj);
-        }
-
         #endregion
     }
 }

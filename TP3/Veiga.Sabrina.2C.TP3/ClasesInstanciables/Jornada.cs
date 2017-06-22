@@ -77,12 +77,6 @@ namespace ClasesInstanciables
             return !(j == a);
         }
 
-        public override bool Equals(object obj)
-        {
-            return this == ((Jornada)obj);
-        }
-
-
         /// <summary>
         /// Agrega Alumnos a la clase, validando que no estén previamente cargados.
         /// </summary>

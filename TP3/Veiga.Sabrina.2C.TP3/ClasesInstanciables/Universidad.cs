@@ -206,11 +206,6 @@ namespace ClasesInstanciables
             return g;
         }
 
-        public override bool Equals(object obj)
-        {
-            return this == ((Universidad)obj);
-        }
-
         #endregion
 
         #region MÉTODOS
